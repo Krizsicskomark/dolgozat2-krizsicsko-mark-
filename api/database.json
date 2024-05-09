@@ -1,0 +1,40 @@
+{
+  "customeres": [
+    {
+      "id": 1,
+      "name": "Strong Steven",
+      "email": "pelda@pelda.com",
+      "city": "Szeged"
+    },
+    {
+      "id": 2,
+      "name": "Nagy Zsolt",
+      "email": "pelda1@pelda.com",
+      "city": "Felcsút"
+    },
+    {
+      "id": 3,
+      "name": "Ritzl Bence",
+      "email": "pelda2@pelda.com",
+      "city": "Bugyi"
+    },
+    {
+      "id": 4,
+      "name": "Fekete János",
+      "email": "pelda3@pelda.com",
+      "city": "Kovácsháza"
+    },
+    {
+      "id": 5,
+      "name": "Kis Balázs",
+      "email": "pelda4@pelda.com",
+      "city": "Makó"
+    },
+    {
+      "id": 6,
+      "name": "Losonci Zsombor",
+      "email": "pelda5@pelda.com",
+      "city": "Miskolc"
+    }
+  ]
+}
